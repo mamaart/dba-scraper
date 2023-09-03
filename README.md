@@ -1,6 +1,6 @@
 # 🌐 DBA Scraper
 
-https://img.shields.io/github/license/:mamaart/:dba-scraper
+![GitHub](https://img.shields.io/github/license/mamaart/dba-scraper)
 
 This is a scraper for DBA (the blue newspaper - in danish) It is a danish version of ebay, also might have been previously owned by ebay. 
 
