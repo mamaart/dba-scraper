@@ -26,7 +26,7 @@ print(json.dumps(scrape_dba_list(page), indent=2))
 
 It is possible to find more information about the seller if they show their phone number. This can be used to get the coordinates to the pickup location _(assuming the sellers address is the pickup location)_
 
-### 📬 Send a message
+### 📨 Send a message
 
 
 With the send message feature you can send a message about a product automatically.
