@@ -1,6 +1,6 @@
 # 🌐 DBA Scraper
 
-This is a scraper for DBA (the blue newspaper - in danish) It is a danish version of ebay, also owned by ebay. 
+This is a scraper for DBA (the blue newspaper - in danish) It is a danish version of ebay, also might have been previously owned by ebay. 
 
 The scraper is able to fetch information about products given a text from the main page.
 
